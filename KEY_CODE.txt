@@ -1,0 +1,193 @@
+0 Null NUL Empty
+1 LButton LeftButton LBtn
+2 RButton RightButton RBtn
+3 Cancel
+4 MButton MiddleButton MBtn
+5 XButton1
+6 XButton2
+7 Alert
+8 Back
+9 Tab
+10 NewLine LN
+11 VertTab
+12 Clear Clr
+13 Enter Return CR
+14 SO
+16 Shift
+17 Control Ctrl
+18 Alt Menu
+19 Pause
+20 CapsLock Caps Capital
+21 Kana Hangeul Hangul
+23 Junja
+24 Final
+24 Hanja Kanji
+27 Esc Escape
+28 Convert
+29 NonConvert
+30 Accept
+31 ModeChange
+32 Space
+33 PageUp Prior PgUp
+34 PageDown Next PgDn
+35 End
+36 Home
+37 Left
+38 Up
+39 Right
+40 Down
+41 Select
+42 Print Prn
+43 Execute Exec
+44 Snapshot PrintScreen PrtScn
+45 Insert Ins
+46 Delete Del
+47 Help
+48 0
+49 1
+50 2
+51 3
+52 4
+53 5
+54 6
+55 7
+56 8
+57 9
+65 A
+66 B
+67 C
+68 D
+69 E
+70 F
+71 G
+72 H
+73 I
+74 J
+75 K
+76 L
+77 M
+78 N
+79 O
+80 P
+81 Q
+82 R
+83 S
+84 T
+85 U
+86 V
+87 W
+88 X
+89 Y
+90 Z
+91 LWin
+92 RWin
+93 Apps
+95 Sleep
+96 N0
+97 N1
+98 N2
+99 N3
+100 N4
+101 N5
+102 N6
+103 N7
+104 N8
+105 N9
+106 Multiply *
+107 Add
+108 Separator Sep
+109 Subtract Sub
+110 Decimal Dcm
+111 Divide
+112 F1
+113 F2
+114 F3
+115 F4
+116 F5
+117 F6
+118 F7
+119 F8
+120 F9
+121 F10
+122 F11
+123 F12
+124 F13
+125 F14
+126 F15
+127 F16
+128 F17
+129 F18
+130 F19
+131 F20
+132 F21
+133 F22
+134 F23
+135 F24
+144 NumLock
+145 ScrollLock Scroll
+160 LShift
+161 RShift
+162 LCtrl LControl
+163 RCtrl RControl
+164 LMenu LAlt
+165 RMenu RAlt
+166 BrowserBack
+167 BrowserForward
+168 BrowserRefresh
+169 BrowserStop
+170 BrowserSearch
+171 BrowserFavorites
+172 BrowserHome
+173 VolumeMute VolMute Mute
+174 VolumeDown VolDown VDown VD
+175 VolumeUp VolUp VUp VU
+176 MediaNextTrack
+177 MediaPrevTrack
+178 MediaStop
+179 MediaPlayPause
+180 LaunchMail
+181 LaunchMediaSelect
+182 LaunchApp1
+183 LaunchApp2
+186 Oem1 ;
+187 OemPlus +
+188 OemComma ,
+189 OemMinus -
+190 OemPeriod .
+191 Oem2 /
+192 Oem3 `
+219 Oem4 [
+220 Oem5 \
+221 Oem6 ]
+222 Oem7 '
+223 Oem8
+225 OemAX
+226 Oem102
+227 IcoHelp
+228 Ico00
+229 ProcessKey
+230 IcoClear
+231 Packet
+233 OemReset
+234 OemJump
+235 OemPa1
+236 OemPa2
+237 OemPa3
+238 OemWsctrl
+239 OemCusel
+240 OemAttn
+241 OemFinish
+242 OemCopy
+243 OemAuto
+244 OemEnlw
+245 OemBacktab
+246 Attn
+247 Crsel
+248 Exsel
+249 ErEof
+250 Play
+251 Zoom
+252 NoName
+253 Pa1
+254 OemClear
+-1
